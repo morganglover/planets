@@ -1,1 +1,2 @@
 This is a sentence about Jupiter
+Jupiter the planet is different from Jupyter
